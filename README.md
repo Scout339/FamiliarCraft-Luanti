@@ -1,40 +1,36 @@
-FamiliarCraft is a combination of original and modified+recolored Pixel Perfection and Voxelibre textures to feel like Minecraft.
+FamiliarCraft is a combination of recolored Voxelibre and original textures to look similar to Minecraft without reusing it's textures.
 
-I have only officially tested this with Voxelibre, but hypothetically it should work with a plethora of other games, as I have attempted to focus on textures that have `mcl-core` in the name. I will never be able to finish all of the textures, so with each update I will atempt to focus on textures working from the most commonly seen downward.
+I have only officially tested this with Voxelibre, but hypothetically it should work with a plethora of other games, as I have attempted to focus on textures that have `mcl-core` in the name. With each update I try to focus on textures working from textures most commonly seen.
 
+### v0.2 "Digging Deeper"
+- Bricks
+- Bookshelves
+- Mossy Cobblestone
+- Obsidian, Weeping Obsidian
+- Sandstone variants (Standard and Red)
+- Tall grass (1 and 2 block height)
+- Torch variants
+- Water
+- Wooden Planks (Spruce, Birch, Bamboo, and Mangrove)
 
-### Intitial Release textures
-- Dirt
-- Grass Overlay
-- Grass path
-- Sand
-- Red Sand
-- Gravel
-- Stone and Stone Ores
+### v0.1 "Terrains and Basics"
 - Cobblestone
-- Birch Logs
-- Oak Logs
-- Dark Oak Logs
-- pruce Logs
-- Acacia Logs
-- Jungle Logs
 - Crafting Table
-- Oak 'default' planks
-- Oak Fence and Gate
-- Cherry Planks
-- Lava
-- Diorite
-- Polished Diorite
-- Map Background
+- Diorite, Polished Diorite
+- Dirt
 - Glowstone
+- Grass, Grass path
+- Gravel
+- Lava
+- Logs (Acacia, Birch, Dark Oak, Oak, Jungle, Spruce)
+- Map Background
+- Oak Fence, Gate
+- Sand, Red Sand
+- Stone, Stone Ores
+- Wooden Planks (Oak, Cherry)
 
-### Credits:
-- [Pixel ImPerfection](https://codeberg.org/mineclonia/pixel_imperfection) by bramaudi -- License: CC BY-SA 4.0
-- Whatever VoxeLibre uses, if not above.
+### Credits
+- VoxeLibre's default texture pack (Used for the base of FamiliarCraft, unless textures are original and not recolored from VoxeLibre)
 
-## Useful links
-The FamiliarCraft repository is hosted at [Codeberg](https://codeberg.org).
-To contribute or report issues, head there.
-
-* Codeberg: <https://codeberg.org/Scout339/familiar_craft>
+### Links
 * ContentDB: <https://content.luanti.org/packages/Scout339/familiar_craft/>
