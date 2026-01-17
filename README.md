@@ -4,6 +4,21 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 
 ## Releases are handled by [Luanti's ContentDB](https://content.luanti.org/packages/Scout339/familiar_craft/)
 
+### v0.3 "Common Items"
+- Acacia Planks
+- Andesite + Smooth
+- Bamboo Plank Mosaic
+- Cherry Logs
+- Dead Bush
+- Furnace
+- Granite + Smooth
+- Jungle Planks
+- Snow
+- Snowball
+- Snowy Grass
+- Stone Bricks (All variants)
+- Sugar Cane + icon
+
 ### v0.2 "Digging Deeper"
 - Bricks
 - Bookshelves
