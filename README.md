@@ -7,7 +7,6 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 ### v0.3.1 "Cold Front"
 - Revised Furnace
 - Revised Mossy Brick
-
 - Blast furnace
 - Frosted Ices
 - Default Ice
