@@ -4,6 +4,16 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 
 ## Releases are handled by [Luanti's ContentDB](https://content.luanti.org/packages/Scout339/familiar_craft/)
 
+### v0.3.1 "Cold Front"
+- Revised Furnace
+- Revised Mossy Brick
+
+- Blast furnace
+- Frosted Ices
+- Default Ice
+- Packed Ice
+
+
 ### v0.3 "Common Items"
 - Acacia Planks
 - Andesite + Smooth
