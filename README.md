@@ -4,6 +4,17 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 
 ## Releases are handled by [Luanti's ContentDB](https://content.luanti.org/packages/Scout339/familiar_craft/)
 
+### v0.4 "farming"
+- Beetroot (Including Icon, Seeds)
+- Carrot (Including Icon, Golden Carrot)
+- Composter
+- Potatoes (Including Icon, Baked, Poisonous)
+- Pumpkin (Including Seeds, Pumpkin Pie, Wearing Pumpkin)
+- Smoker
+- Tilled dirt "farmland" (Dry, Wet)
+- Watermellon (Including Slice, Seeds, Glistering)
+- Wheat (Stages, icon, and seeds)
+
 ### v0.3.1 "Cold Front"
 - Revised Furnace
 - Revised Mossy Brick
@@ -11,7 +22,6 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 - Frosted Ices
 - Default Ice
 - Packed Ice
-
 
 ### v0.3 "Common Items"
 - Acacia Planks
