@@ -4,6 +4,14 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 
 ## Releases are handled by [Luanti's ContentDB](https://content.luanti.org/packages/Scout339/familiar_craft/)
 
+### v0.5 "Tools"
+- All Axes
+- All Hoes
+- All Pickaxes
+- All Shovels
+- All Swords
+- Shears
+
 ### v0.4 "farming"
 - Beetroot (Including Icon, Seeds)
 - Carrot (Including Icon, Golden Carrot)
