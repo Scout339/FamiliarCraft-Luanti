@@ -4,8 +4,8 @@ I have only officially tested this with Voxelibre, but hypothetically it should 
 
 ## Releases are handled by [Luanti's ContentDB](https://content.luanti.org/packages/Scout339/familiar_craft/)
 
-### ngl i dont want to do the changelogs anymore
-If you want to see the changes and additions, jkust check the main branch commits. 
+### I'm not gonna lie, I dont want to do the changelogs anymore.
+If you want to see the changes and additions, just check the main branch commits, or Luanti's Releases tab.
 
 ### Credits
 - VoxeLibre's default texture pack (Used for the base of FamiliarCraft, unless textures are original and not recolored from VoxeLibre)
